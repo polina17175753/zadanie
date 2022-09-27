@@ -1,1 +1,1 @@
-# zadanie2/2 
+# zadanie2 
